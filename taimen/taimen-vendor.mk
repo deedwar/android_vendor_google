@@ -51,7 +51,6 @@ PRODUCT_PACKAGES += \
     SSRestartDetector \
     TetheringEntitlement \
     TimeService \
-    Tycho \
     uceShimService \
     vzw_msdc_api \
     VZWAPNLib \
@@ -351,7 +350,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/vendor/etc/qdcm_calib_data_SW43402_cmd_mode_dsc_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_SW43402_cmd_mode_dsc_dsi_panel.xml \
     vendor/google/taimen/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \
     vendor/google/taimen/proprietary/vendor/etc/sensors/sensor_def_wahoo.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_wahoo.conf \
-    vendor/google/taimen/proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml \
     vendor/google/taimen/proprietary/vendor/firmware/Data.msc:$(TARGET_COPY_OUT_VENDOR)/firmware/Data.msc \
     vendor/google/taimen/proprietary/vendor/firmware/a530_gpmu.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_gpmu.fw2 \
     vendor/google/taimen/proprietary/vendor/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pfp.fw \
