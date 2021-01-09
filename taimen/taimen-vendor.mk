@@ -93,7 +93,6 @@ PRODUCT_PACKAGES += \
     vzw_msdc_api \
     CNEService \
     qcrilmsgtunnel \
-    DCMO \
     DiagMon \
     EuiccGoogle \
     EuiccSupportPixel \
